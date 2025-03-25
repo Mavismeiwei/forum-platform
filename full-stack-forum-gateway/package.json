@@ -1,0 +1,16 @@
+{
+  "name": "gateway-service",
+  "version": "1.0.0",
+  "description": "API Gateway for the Full-Stack Forum Platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6",
+    "jsonwebtoken": "^9.0.0"
+  }
+}

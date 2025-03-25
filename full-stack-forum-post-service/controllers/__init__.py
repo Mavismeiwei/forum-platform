@@ -1,0 +1,1 @@
+from .post_blueprint import post_bp
