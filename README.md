@@ -142,9 +142,3 @@ Updated successfully:
 ### Super Admin
 
 ![image](https://github.com/user-attachments/assets/f46355d0-37ee-4e75-9cf3-476e382f5053)
-
-
-
-![image.png](attachment:b829184e-45c9-45cf-a106-e53f842d1351:image.png)
-
-### Super Admin
